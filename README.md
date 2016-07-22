@@ -1,0 +1,2 @@
+# MusicBot
+Nightcore music ONLY!
